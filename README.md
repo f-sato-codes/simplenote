@@ -16,8 +16,8 @@ Laravel における基本的な設計や処理の流れを確認することを
 ## 🎯 目的
 
 - Laravel を用いた Web アプリケーションの基本構成を理解する
-- CRUD 処理の一連の流れを実装を通して確認する
-- 講座の内容をそのまま写すのではなく、自分で構成を整理し直す
+- CRUD 処理の一連の流れを、実装を通して確認する
+- 講座の内容をそのまま写すのではなく、自分なりに構成を整理し直す
 
 ---
 
@@ -63,16 +63,16 @@ Laravel における基本的な設計や処理の流れを確認することを
 ## 📷 画面イメージ
 
 ### トップ画面
-![トップ画面](docs/images/welcome.png)
+![トップ画面](docs/image/welcome.png)
 
 ### メモ一覧
-![メモ一覧](docs/images/list.png)
+![メモ一覧](docs/image/list.png)
 
 ### メモ詳細
-![メモ詳細](docs/images/detail.png)
+![メモ詳細](docs/image/detail.png)
 
 ### メモ編集
-![メモ編集](docs/images/edit.png)
+![メモ編集](docs/image/edit.png)
 
 ---
 
